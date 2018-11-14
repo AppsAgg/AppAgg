@@ -6,4 +6,4 @@ Apps, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. We support a
 
 
 <h2>Bug report</h2>
-<a href="https://github.com/appsagg/AppAgg.com/issues/new?template=bug_report.md">Create a report to help us improve!</a>
+<a href="https://github.com/appsagg/AppAgg.com/issues/new?template=bug_report.md">Create a report to help us improve AppAgg!</a>
