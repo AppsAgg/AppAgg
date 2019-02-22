@@ -1,5 +1,5 @@
 # AppAgg
-Apps, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. We support all the major operating systems: Android, iOS, Windows Phone, macOS, Windows, Xbox, PlayStation.
+Apps, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. We support all the major operating systems: Android, iOS, Windows Phone, macOS, Windows, Xbox, PlayStation, Nintendo.
 
 <h2>Feature request</h2>
 <a href="https://github.com/appsagg/AppAgg/issues/new?template=feature_request.md">Suggest an idea!</a>
