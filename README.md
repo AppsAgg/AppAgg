@@ -1,5 +1,5 @@
 # AppAgg
-Apps, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
+Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
 
 ## We support all the major operating systems:
 * — Android (Google Play™)
