@@ -1,7 +1,7 @@
 # AppAgg
 Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
 
-## We support all the major operating systems:
+## We support all the major platforms:
 * — Android (Google Play™)
 * — iOS (App Store™)
 * — Windows Phone (Microsoft Store™)
