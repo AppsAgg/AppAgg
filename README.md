@@ -8,6 +8,7 @@ Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos.
 * — Windows (PAD XML, Microsoft Store™)
 * — macOS (PAD XML, App Store™)
 * — Linux (PAD XML)
+* — Steam (Steam Store™)
 * — Xbox (Microsoft Store™)
 * — PlayStation (PlayStation Store™)
 * — Nintendo (Nintendo Store™)
