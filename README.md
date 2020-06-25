@@ -3,15 +3,15 @@ Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos.
 
 ## We support all the major platforms:
 * Android (Google Play™)
-* — iOS (App Store™)
-* — Windows Phone (Microsoft Store™)
-* — macOS (PAD XML, App Store™)
-* — Windows (PAD XML, Microsoft Store™)
-* — Linux (PAD XML)
-* — Steam (Steam Store™)
-* — Xbox (Microsoft Store™)
-* — PlayStation (PlayStation Store™)
-* — Nintendo (Nintendo Store™)
+* iOS (App Store™)
+* Windows Phone (Microsoft Store™)
+* macOS (PAD XML, App Store™)
+* Windows (PAD XML, Microsoft Store™)
+* Linux (PAD XML)
+* Steam (Steam Store™)
+* Xbox (Microsoft Store™)
+* PlayStation (PlayStation Store™)
+* Nintendo (Nintendo Store™)
 
 ## All apps in one place!
 * More than 4,000,000 apps and 1,000,000 developers.
