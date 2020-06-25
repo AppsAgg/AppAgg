@@ -2,7 +2,7 @@
 Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
 
 ## We support all the major platforms:
-* — Android (Google Play™)
+* Android (Google Play™)
 * — iOS (App Store™)
 * — Windows Phone (Microsoft Store™)
 * — macOS (PAD XML, App Store™)
