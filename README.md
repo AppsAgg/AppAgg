@@ -1,4 +1,4 @@
-# AppAgg
+# <a href="https://appagg.com">AppAgg</a>
 Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
 
 ## We support all the major platforms:
