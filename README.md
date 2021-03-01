@@ -3,6 +3,12 @@
 # <a href="https://appagg.com">Application Aggregator</a>
 Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos. 
 
+## All apps and games in one place!
+* More than 4,000,000 apps and games. 
+* More than 1,000,000 developers.
+* Our free site keeps you up to date on the newest and top sales.
+* You can easily search for any apps or developers.
+
 ## We support all the major platforms:
 * Android (Google Play™)
 * iOS (App Store™)
@@ -15,14 +21,5 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * PlayStation (PlayStation Store™)
 * Nintendo (Nintendo Store™)
 
-## All apps and games in one place!
-* More than 4,000,000 apps and games. 
-* More than 1,000,000 developers.
-* Our free app keeps you up to date on the newest and top sales.
-* You can easily search for any apps and developers.
-
-## Feature request
-<a href="https://appagg.com/feedback/">Suggest an idea!</a>
-
-## Bug report
-<a href="https://appagg.com/feedback/">Create a report to help us improve AppAgg!</a>
+## Send feedback
+<a href="https://appagg.com/feedback/">Describe your issue or share your ideas!</a>
