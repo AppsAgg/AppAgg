@@ -1,5 +1,5 @@
-# <a href="https://appagg.com">AppAgg</a>
-Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos. 
+# <a href="https://appagg.com">Application Aggregator</a>
+Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos. 
 
 ## We support all the major platforms:
 * Android (Google Play™)
@@ -19,7 +19,7 @@ Apps, Games, Developers, Discounts %, Lists, RSS, Search, Reviews, Videos.
 * You can easily search for any apps and developers.
 
 ## Feature request
-<a href="https://github.com/appsagg/AppAgg/issues/new?template=feature_request.md">Suggest an idea!</a>
+<a href="https://appagg.com/feedback/">Suggest an idea!</a>
 
 ## Bug report
-<a href="https://github.com/appsagg/AppAgg/issues/new?template=bug_report.md">Create a report to help us improve AppAgg!</a>
+<a href="https://appagg.com/feedback/">Create a report to help us improve AppAgg!</a>
