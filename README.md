@@ -13,8 +13,9 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * PlayStation (PlayStation Store™)
 * Nintendo (Nintendo Store™)
 
-## All apps in one place!
-* More than 4,000,000 apps and 1,000,000 developers.
+## All apps and games in one place!
+* More than 4,000,000 apps and games. 
+* More than 1,000,000 developers.
 * Our free app keeps you up to date on the newest and top sales.
 * You can easily search for any apps and developers.
 
