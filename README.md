@@ -3,7 +3,7 @@
 # <a href="https://appagg.com">APPlication AGGregator</a>
 Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos. 
 
-## All apps and games in one place!
+## All apps and games in one place
 * More than 4,000,000 apps and games. 
 * More than 1,000,000 developers.
 * Our free site keeps you up to date on the newest and top sales.
