@@ -1,7 +1,7 @@
 ![AppAgg](https://appagg.co/i/apple-touch-icon.png)
 
 # <a href="https://appagg.com">APPlication AGGregator</a>
-Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos. 
+Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos, Points.
 
 ## All apps and games in one place
 * More than 4,000,000 apps and games. 
