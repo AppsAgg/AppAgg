@@ -10,16 +10,16 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * You can easily search for any apps or developers.
 
 ## We support all the major platforms
-* Android (Google Play™)
-* iOS (App Store™)
-* Windows Phone (Microsoft Store™)
-* macOS (PAD XML, App Store™)
-* Windows (PAD XML, Microsoft Store™)
+* Android (Google Play)
+* iOS (App Store)
+* Windows Phone (Microsoft Store)
+* macOS (PAD XML, App Store)
+* Windows (PAD XML, Microsoft Store)
 * Linux (PAD XML)
-* Steam (Steam Store™)
-* Xbox (Microsoft Store™)
-* PlayStation (PlayStation Store™)
-* Nintendo (Nintendo Store™)
+* Steam (Steam Store)
+* Xbox (Microsoft Store)
+* PlayStation (PlayStation Store)
+* Nintendo (Nintendo Store)
 
 ## Send feedback
 <a href="https://appagg.com/feedback/">Describe your issue or share your ideas!</a>
