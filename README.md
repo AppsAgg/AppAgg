@@ -9,7 +9,7 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * Our free site keeps you up to date on the newest and top sales.
 * You can easily search for any apps or developers.
 
-## We support all the major platforms
+## We support all major platforms
 * Android (Google Play)
 * iOS (App Store)
 * macOS (PAD XML, App Store)
