@@ -1,6 +1,6 @@
 ![AppAgg](https://appagg.co/i/apple-touch-icon.png)
 
-# <a href="https://appagg.com">APPlication<br>AGGregator</a>
+# <a href="https://appagg.com">Application<br>Aggregator</a>
 Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos, Points.
 
 ## All apps and games in one place
@@ -12,13 +12,12 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 ## We support all major platforms
 * Android (Google Play)
 * iOS (App Store)
-* macOS (App Store, PAD XML)
-* Windows (Microsoft Store, PAD XML)
-* Linux (PAD XML)
+* macOS (App Store)
+* Windows (Microsoft Store)
 * Steam (Steam Store)
-* Xbox (Microsoft Store)
-* PlayStation (PlayStation Store)
 * Nintendo (Nintendo Store)
+* PlayStation (PlayStation Store)
+* Xbox (Microsoft Store)
 
 ## Send feedback
 <a href="https://appagg.com/feedback/">Describe your issue or share your ideas!</a>
