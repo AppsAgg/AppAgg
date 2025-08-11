@@ -15,6 +15,8 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * macOS (App Store)
 * Windows (Microsoft Store)
 * Steam (Steam Store)
+* GOG (GOG Store)
+* Meta (Meta Store)
 * Nintendo (Nintendo Store)
 * PlayStation (PlayStation Store)
 * Xbox (Microsoft Store)
