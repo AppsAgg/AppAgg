@@ -4,8 +4,8 @@
 Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos, Points.
 
 ## Explore More, Discover New
-* More than 3,000,000 apps and games. 
-* More than 1,000,000 developers.
+* More than 4,700,000 apps and games. 
+* More than 1,500,000 developers.
 * Our free site keeps you up to date on the newest and top sales.
 * You can easily search for any apps, games or developers.
 
