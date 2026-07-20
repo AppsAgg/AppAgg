@@ -4,7 +4,7 @@
 Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos, Points.
 
 ## Explore More, Discover New
-* More than 4,700,000 apps and games. 
+* More than 5,300,000 apps and games. 
 * More than 1,500,000 developers.
 * Our free site keeps you up to date on the newest and top sales.
 * You can easily search for any apps, games or developers.
@@ -16,6 +16,7 @@ Apps, Games, Discounts %, Developers, Users, RSS, Search, Lists, Reviews, Videos
 * Windows (Microsoft Store)
 * Steam (Steam Store)
 * GOG (GOG Store)
+* Epic (Epic Store)
 * Meta (Meta Store)
 * Nintendo (Nintendo Store)
 * PlayStation (PlayStation Store)
